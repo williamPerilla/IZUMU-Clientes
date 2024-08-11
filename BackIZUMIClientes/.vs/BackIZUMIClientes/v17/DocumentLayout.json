@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\IZUMI Clientes\\BackIZUMIClientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF974329-FE78-4C53-AEEC-248384F427AC}|BackIZUMIClientes.csproj|e:\\izumi clientes\\backizumiclientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF974329-FE78-4C53-AEEC-248384F427AC}|BackIZUMIClientes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF974329-FE78-4C53-AEEC-248384F427AC}|BackIZUMIClientes.csproj|e:\\izumi clientes\\backizumiclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF974329-FE78-4C53-AEEC-248384F427AC}|BackIZUMIClientes.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF974329-FE78-4C53-AEEC-248384F427AC}|BackIZUMIClientes.csproj|e:\\izumi clientes\\backizumiclientes\\modelos\\listas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF974329-FE78-4C53-AEEC-248384F427AC}|BackIZUMIClientes.csproj|solutionrelative:modelos\\listas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF974329-FE78-4C53-AEEC-248384F427AC}|BackIZUMIClientes.csproj|e:\\izumi clientes\\backizumiclientes\\repositorio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF974329-FE78-4C53-AEEC-248384F427AC}|BackIZUMIClientes.csproj|solutionrelative:repositorio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF974329-FE78-4C53-AEEC-248384F427AC}|BackIZUMIClientes.csproj|e:\\izumi clientes\\backizumiclientes\\repositorio\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF974329-FE78-4C53-AEEC-248384F427AC}|BackIZUMIClientes.csproj|solutionrelative:repositorio\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF974329-FE78-4C53-AEEC-248384F427AC}|BackIZUMIClientes.csproj|e:\\izumi clientes\\backizumiclientes\\modelos\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF974329-FE78-4C53-AEEC-248384F427AC}|BackIZUMIClientes.csproj|solutionrelative:modelos\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF974329-FE78-4C53-AEEC-248384F427AC}|BackIZUMIClientes.csproj|e:\\izumi clientes\\backizumiclientes\\modelos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF974329-FE78-4C53-AEEC-248384F427AC}|BackIZUMIClientes.csproj|solutionrelative:modelos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\IZUMI Clientes\\BackIZUMIClientes\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\IZUMI Clientes\\BackIZUMIClientes\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T17:33:59.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "listas.cs",
+              "DocumentMoniker": "E:\\IZUMI Clientes\\BackIZUMIClientes\\Modelos\\listas.cs",
+              "RelativeDocumentMoniker": "Modelos\\listas.cs",
+              "ToolTip": "E:\\IZUMI Clientes\\BackIZUMIClientes\\Modelos\\listas.cs",
+              "RelativeToolTip": "Modelos\\listas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:16:58.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICliente.cs",
+              "DocumentMoniker": "E:\\IZUMI Clientes\\BackIZUMIClientes\\Repositorio\\ICliente.cs",
+              "RelativeDocumentMoniker": "Repositorio\\ICliente.cs",
+              "ToolTip": "E:\\IZUMI Clientes\\BackIZUMIClientes\\Repositorio\\ICliente.cs",
+              "RelativeToolTip": "Repositorio\\ICliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:11:36.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "E:\\IZUMI Clientes\\BackIZUMIClientes\\Repositorio\\Cliente.cs",
+              "RelativeDocumentMoniker": "Repositorio\\Cliente.cs",
+              "ToolTip": "E:\\IZUMI Clientes\\BackIZUMIClientes\\Repositorio\\Cliente.cs",
+              "RelativeToolTip": "Repositorio\\Cliente.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:13:37.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mensajes.cs",
+              "DocumentMoniker": "E:\\IZUMI Clientes\\BackIZUMIClientes\\Modelos\\mensajes.cs",
+              "RelativeDocumentMoniker": "Modelos\\mensajes.cs",
+              "ToolTip": "E:\\IZUMI Clientes\\BackIZUMIClientes\\Modelos\\mensajes.cs",
+              "RelativeToolTip": "Modelos\\mensajes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:13:10.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clientes.cs",
+              "DocumentMoniker": "E:\\IZUMI Clientes\\BackIZUMIClientes\\Modelos\\clientes.cs",
+              "RelativeDocumentMoniker": "Modelos\\clientes.cs",
+              "ToolTip": "E:\\IZUMI Clientes\\BackIZUMIClientes\\Modelos\\clientes.cs",
+              "RelativeToolTip": "Modelos\\clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T05:12:04.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "E:\\IZUMI Clientes\\BackIZUMIClientes\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "E:\\IZUMI Clientes\\BackIZUMIClientes\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAkwD8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:01:50.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
